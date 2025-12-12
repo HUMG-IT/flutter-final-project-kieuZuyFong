@@ -8,6 +8,6 @@ void main() {
     await tester.pumpWidget(const MainApp());
 
     // Verify that our app displays book list
-    expect(find.text('Thư viện'), findsOneWidget);
+    expect(find.text('Quản lý Thư viện'), findsOneWidget);
   });
 }
