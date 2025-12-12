@@ -3,7 +3,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_project/providers/book_provider.dart';
 import 'package:flutter_project/screens/book_list_screen.dart';
-import 'package:flutter_project/models/book.dart';
+// import 'package:flutter_project/models/book.dart';
 
 void main() {
   // Kiểm thử: Hiển thị trạng thái rỗng khi không có sách (empty state).
